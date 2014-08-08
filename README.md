@@ -46,4 +46,4 @@ The methods are:
 - retrieving all categories: `list_categories(db)`
 - retrieving a specific category: `get_category(db, category_id)`
 - retrieving all series of a category: `list_series(db, category_id)`
-- retrieving a specific series: `get_series(db, series.id, Array)`
+- retrieving a specific series: `get_series(db, series_id, Array)`
