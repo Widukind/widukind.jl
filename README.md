@@ -1,6 +1,6 @@
 # DB.nomics for Julia
 
-This package gives the possibility of downloading DB.nomics data into Julia.
+This package gives the possibility of downloading DB.nomics series in Julia.
 
 **`DB.nomics <https://db.nomics.world/>`_ is a database of international macroeconomic data collected on public web servers of statistical offices worldwide.**
 
