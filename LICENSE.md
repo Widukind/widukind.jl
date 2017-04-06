@@ -1,4 +1,4 @@
-The Widukind.jl package is licensed under the GPL v3 or later:
+The dbnomics-connector.jl package is licensed under the GPL v3 or later:
 
 > Copyright (c) 2014 Sébastien Villemot <sebastien@dynare.org>.
 >

@@ -1,19 +1,23 @@
-# Widukind for Julia
+# DB.nomics for Julia
 
-This package gives the possibility of downloading Widukind data into Julia.
+This package gives the possibility of downloading DB.nomics data into Julia.
+
+**`DB.nomics <https://db.nomics.world/>`_ is a database of international macroeconomic data collected on public web servers of statistical offices worldwide.**
+
+*Please ask your questions to the `DB.nomics forum <https://forum.db.nomics.world/>`_.*
 
 # Installation
 
 From the Julia command line:
 ```
-Pkg.clone("https://github.com/Widukind/Widukind.jl.git")
+Pkg.clone("https://git.nomics.world/dbnomics/dbnomics-connector.jl.git")
 ```
 
 This will install the package in Julia's packages directory.
 
 Then, in every session where you want to use the package, issue the following:
 ```
-using Widukind
+using DB.nomics
 ```
 
 # Retrieving a series as a `TimeArray` object
